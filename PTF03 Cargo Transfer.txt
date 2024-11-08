@@ -1,0 +1,77 @@
+#Cargo Transfer PTF03 
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=2]                    PARENT FORM: PTF03     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#028a0f][head=3]PARENT FORM SUBJECT:[/color][color=#b18644]CARGO TRANSFER[/color][/head]
+          *Name:  
+       *Species: 
+*Current Job:
+      *Request: To be transferred to the Cargo Department serving as a 
+  *Reasoning:
+
+[bold] *Please only fill out the following tasks you are trained to perform: [/bold]
+Blank fields will not be grounds for rejection, only for task assignment.
+Incomplete cerfications can be taught by senior staff as needed. 
+
+Core Duties:[color=#b18644]
+\[ ] I have completed my NT certification in Moving Crates.
+\[ ] I have completed my NT certification in Object Appraisals.
+\[ ] I have completed my NT certification in Cargo Bounty Obtention and Selling.
+\[ ] I have completed my NT certification in Non-Essential Station Liquidation.
+\[ ] I have completed my NT certification in Non-Essential Structural Deconstruction.
+\[ ] I have completed my NT certification in Cargo Purchases and Ordering.
+\[ ] I have completed my NT Remote Piloting Permit for Shuttle Operations.
+[/color]
+Salvage Duties:[color=#b18644]
+\[ ] I have completed my NT Full Piloting Permit for Salvage Operations.
+\[ ] I have read Pryce & Carter's Deep Space Survival Procedure and Protocol.
+\[ ] I have completed my NT certification in Salvage Equipment Usage.
+[/color]
+Advanced Duties:[color=#b18644]
+\[ ] I have completed my NT certification in Cross Department Trading and Haggling.
+\[ ] I have completed my NT certification in Front Desk Bureaucracy.
+\[ ] I have completed my NT portfolio of Front Desk Paperwork Templates.
+[/color]
+The following box is required to be checked in order to process this form:
+[color=#ff0000][bold] \[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
+
+[bullet/] I have watched and understood the Export not Extort Training videos, and will not threaten departments regardless of effectiveness.
+[bullet/] I will not endorse any disruptive concept of 'Cargonia', and wave all preexisting rights to participate in a union or strike.
+[bullet/] I will not gamble using station funds, regardless of effectiveness.
+[/color]
+-----------------------------------------------------------------------------
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+
+Access Granted by Form: SEE CHILD FORM CRF01
+
+Title Granted by Form: SEE CHILD FORM CRF02
+
+[bold]*Stamps Required: This page is invalid unless all marked stamps are present[/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[ ] Head of Security
+Quartermaster      \[X]    \[ ] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[ ] Psycologist
+Trader                     \[ ]    \[A] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

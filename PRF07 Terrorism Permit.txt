@@ -1,0 +1,42 @@
+#Terrorism Permit PRF07
+
+
+                                        [color=#ff0000]█▀  █▀▀  ▀█
+                                        █     ▀▀█     █
+                                        ▀▀  ▀▀▀  ▀▀   
+[color=#ff0000][head=2]                    PARENT FORM: PRF07     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NotATrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#ff0000][head=3]PARENT FORM SUBJECT:Permit to Assail HoP Office     [/color][/head]
+          *Name:
+       *Species: 
+ Current Job: Syndicate
+      *Request: Permission to enact unspecified acts of violence on  the HoP Office.
+  [bold]*Reasoning: Unfair treatment, sandbagging of duties, and mass wasting of paper.[/bold]
+-----------------------------------------------------------------------------
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+This is a serious form. The person listed on this form is permitted by the authorities stamped below to enact terrorism on the HoP office.
+
+
+[bold]*Stamps Required: [/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[ ]   \[ ] Head of Personnel
+Captain                   \[A]    \[A] Head of Security
+Quartermaster      \[ ]    \[ ] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Warden                    \[A]    \[ ] Detective
+Clown                       \[A]    \[A] Mime
+Lawyer                     \[A]    \[A] Psycologist
+Trader                     \[ ]    \[X] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

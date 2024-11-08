@@ -1,0 +1,46 @@
+#Urgent Fasttrack PFR01 
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#cb0000][head=2]                    PARENT FORM: PFR01     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#cb0000][head=3]PARENT FORM SUBJECT:    URGENT FASTRACK        [/color][/head]
+This document cuts down the required information for approval due to an emergency such as a station alert level above green or if the evac shuttle has been called.
+This relies on the professionalism of the HoP and their verbal interview to the listed crew below.
+
+          *Name:  
+      *Request:
+
+The following box must be checked for this document to be valid:
+[ ] *I agree to return to the HoP office for proper processing once the station alert is green, or the evac shuttle is recalled.
+(Your name will be called on radio. Failure to return may result in a report to security, nullifying the permissions this provides and possibly resulting in criminal charges.)
+-----------------------------------------------------------------------------
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+Summary:
+
+[bold]*Stamps Required: [/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[ ] Head of Security
+Quartermaster      \[ ]    \[ ] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[ ] Psycologist
+Trader                     \[ ]    \[ ] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

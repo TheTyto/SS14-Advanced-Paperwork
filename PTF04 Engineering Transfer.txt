@@ -1,0 +1,74 @@
+#Engineering Transfer PTF04 
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=2]                    PARENT FORM: PTF04     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#028a0f][head=3]PARENT FORM SUBJECT:[/color][color=#f39f27]ENGINEERING TRANSFER[/color][/head]
+          *Name:  
+       *Species: 
+*Current Job:
+      *Request:To be transferred to the Engineering Department serving a role approved by the Chief Engineer.
+  *Reasoning:
+
+[bold] *Please only fill out the following tasks you are trained to perform: [/bold]
+Blank fields will not be grounds for rejection, only for task assignment.
+Incomplete cerfications can be taught by senior staff as needed. 
+
+Core Duties:[color=#f39f27]
+\[ ] I have completed my NT certification in Door Framework Configuration and Repair.
+\[ ] I have completed my NT certification in RCD Tool Handling and Usage.
+\[ ] I have completed my NT certification in Advanced Manual Repair Methods.
+\[ ] I have completed my NT certification in AME Assembly and Maintainment.
+[/color]
+Advanced Duties:[color=#f39f27]
+\[ ] I have completed my NT certification in Basic Atmospherics.
+\[ ] I have completed my NT certification in Advanced/Experimental Atmospherics.
+\[ ] I have completed my NT certification in TEG Assembly and Maintainment.
+\[ ] I have completed my NT certification in Singularity Confinement and Maintainment.
+\[ ] I have completed my NT certification in Tesla Experimentation.
+[/color]
+The following box is required to be checked in order to process this form:
+[color=#ff0000][bold] \[ ] *I consent to the following legal guidelines required to take on this role:[/bold]
+
+[bullet/] I, and no one else, am responsible for acquiring and maintaining my breathable gas canister.
+[bullet/] Nanotresen is not required to compensate any negligent work related injuries, such as burns.
+[bullet/] Should a Tesloose/Singuloose event occur, I am personally and legally responsible. 
+[/color]
+
+-----------------------------------------------------------------------------
+
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+
+Access Granted by Form: SEE CHILD FORM CRF01
+
+Title Granted by Form: SEE CHILD FORM CRF02
+
+[bold]*Stamps Required: This page is invalid unless all marked stamps are present[/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[ ] Head of Security
+Quartermaster      \[ ]    \[X] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[ ] Psycologist
+Trader                     \[ ]    \[ ] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

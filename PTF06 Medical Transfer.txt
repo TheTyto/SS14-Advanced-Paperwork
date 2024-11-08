@@ -1,0 +1,91 @@
+#Medical Transfer PTF06 
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=2]                    PARENT FORM: PTF06     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#028a0f][head=3]PARENT FORM SUBJECT:[/color][color=#5b97bc]MEDICAL TRANSFER[/color][/head]
+          *Name:  
+       *Species: 
+*Current Job:
+      *Request: To be transferred to the Security Department serving a role approved by the Chief Medical Officer. 
+  *Reasoning:
+
+[bold] *Please only fill out the following tasks you are trained to perform: [/bold]
+Blank fields will not be grounds for rejection, only for task assignment.
+Incomplete cerfications can be taught by senior staff as needed. 
+
+Core Duties:[color=#5b97bc]
+\[ ] I have completed my NT degree in Medical Practice.
+\[ ] I have completed my NT permit for the Health Scanner.
+\[ ] I have completed the NT Intership Training Video "Just Hand Them the Things".
+\[ ] I have completed the NT Basic Medicine Training Video "Topical Discussion with the Chem Locker".
+\[ ] I have completed the NT Standard Medicine Training Video "A Beaker Look within the Chem Locker".
+\[ ] I have completed the NT Overdose Training Video "Too Much of the Good Stuff".
+[/color]
+Advanced Duties:[color=#5b97bc]
+\[ ] I have completed my NT certification in Cryopod Operation.
+\[ ] I have completed my NT certification in Cloning Procedure.
+\[ ] I have completed my NT certification in Unimplemented Surgery Qualifications.
+[/color]
+Chemist Duties[color=#5b97bc]
+\[ ] I have completed my NT certification in Fundemental Chemistry.
+\[ ] I have completed my NT certification in Advanced Chemistry.
+\[ ] I have completed my NT portfolio of Prescription Paperwork Templates.
+\[ ] I have completed my NT Theoretical Anti-Viral Cures against Completely Hypothetical Biochemicals certification.
+[/color]
+Paramedic Duties:[color=#5b97bc]
+\[ ] I have completed my NT certification on First Responder Procedure.
+\[ ] I have completed my NT EVA Operational Permit for external permissions.
+\[ ] I have read Pryce & Carter's Deep Space Survival Procedure and Protocol.
+[/color]
+Psycologist Duties:[color=#5b97bc]
+\[ ] I have completed my NT certification in Standard Issues Placebos.
+\[ ] I have completed my NT certification Gaslighting.
+\[ ] I have completed my NT Drug Prescriber Permit.
+\[ ] I have completed my NT portfolio of Mental Health Paperwork Templates.
+[/color]
+The following box is required to be checked in order to process this form:
+[color=#ff0000][bold] \[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
+
+[bullet/] I agree that medical malpractice is a myth constructed by bad actors, and will not waste company time reporting fellow staff.
+[bullet/] I wave all medical insurances provided by Nanotrasen, as my expensive and extensive training should prevent last harm to my own body.
+[bullet/] I will not sell narcotics in a publicly visible manner that harms NanoTrasen's corporate image. 
+[bullet/] As a healer, I promise to adjust.
+[/color]
+
+-----------------------------------------------------------------------------
+
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+
+Access Granted by Form: SEE CHILD FORM CRF01
+
+Title Granted by Form: SEE CHILD FORM CRF02
+
+[bold]*Stamps Required: This page is invalid unless all marked stamps are present[/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[ ] Head of Security
+Quartermaster      \[ ]    \[ ] Chief Engineer
+Research Director \[ ]    \[X]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[A] Psycologist
+Trader                     \[ ]    \[ ] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

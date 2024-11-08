@@ -1,0 +1,53 @@
+#Labor Order CRF07 
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#06402B][head=2]                    CHILD FORM: CFR07     [/head]
+                 -- This document is tied to Parent Form: PFR00 --         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
+(* = A Required Field)
+
+[color=#06402B][head=3]CHILD FORM SUBJECT: Department Labor Order[/color][/head]
+          *Name:  
+*Laboring Department:
+      *Request: 
+[/bullet]
+[/bullet]
+[/bullet]
+   Reasoning:
+
+RETURN TO HOP OFFICE ONCE FILLED OUT. THE HOP WILL SEAL THE ORDER FOR YOU TO DELIVER
+
+-----------------------------------------------------------------------------
+[head=3]Filled out by Head of Personell only: [/head]
+(Tamper will result in denial and criminal charges)
+
+THIS DOCUMENT SHOULD COME IN AN ENCLOSED ENVELOPE. AN UNSEALED DOCUMENT MAY BE EVIDENCE OF TAMPERING.
+
+This form, when stamped correctly, acts as a command to command labor request, should the request be deemed reasonable, the corresponding head will provide the list number of personnel and/or supplies.
+Unless waived by the CE, construction projects should have at least one delegated department representative for project oversite and assistance.
+
+
+[bold]*Stamps Required: [/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[ ] Head of Security
+Quartermaster      \[ ]    \[ ] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[ ] Psycologist
+Trader                     \[ ]    \[ ] Syndicate
+Greytider               \[A]    \[A]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+==========================================================================

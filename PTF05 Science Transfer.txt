@@ -1,0 +1,83 @@
+#Science Transfer PTF05 
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=2]                    PARENT FORM: PTF05     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#028a0f][head=3]PARENT FORM SUBJECT:
+[/color][color=#c96dbf]SCIENCE TRANSFER[/color][/head]
+          *Name:  
+       *Species: 
+*Current Job:
+      *Request:To be transferred to the Science Department serving a role approved by the Research Director.
+  *Reasoning:
+
+[bold]*Please only fill out the following tasks you are trained to perform: [/bold]
+Blank fields will not be grounds for rejection, only for task assignment.
+Incomplete cerfications can be taught by senior staff as needed.
+
+Core Duties:[color=#c96dbf]
+\[ ] I have completed my NT permit in Lathe Operation.
+\[ ] I have completed my NT certification in Research Point Acquisition.
+[/color]
+Anomaly Duties:[color=#c96dbf]
+\[ ] I have completed my NT waiver regarding APE Operation and Responsibility.
+\[ ] I have completed my NT certification in Anomaly Scanning and Diagnosis.
+\[ ] I have completed my NT certification in Anomaly Containment and Security.
+[/color]
+Artifact Duties:[color=#c96dbf]
+\[ ] I have completed my NT certification in Artifact Observation and Manipulation.
+\[ ] I have completed my NT certification in Artifact Node Cataloguing and Navigation.
+\[ ] I have completed my NT certification in Artifact Exploitation and Utilization.
+[/color]
+Robotics Duties:[color=#c96dbf]
+\[ ] I have completed my NT certification in Robotic Assembly and Enhancement.
+\[ ] I have completed my NT certification in Asimovs Laws and Recall Procedure.
+\[ ] I have completed my NT permit in Medical Gibbing and MMI Borging Procedure
+[/color]
+The following box is required to be checked in order to process this form:
+[color=#ff0000][bold] \[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
+
+[bullet/] I will not form relationships with any Artifact or Anomaly, nor the product there of.
+[bullet/] Should an anomaly cause station or crew damage, I am personally and legally responsible. 
+[bullet/] I donate my mind and body, living or deceased to scientific advancement, waving all rights to insurance or parcipation in lawsuits.
+[bullet/] Unless explicitly stated by an additional form, this is a valid 'do not resuscitate' request:
+ Should I die while on or off duty, it should be restated that my mind and body is property of the science department to utilize as needed.
+[/color]
+
+-----------------------------------------------------------------------------
+
+[color=#1b67a5] [head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+
+Access Granted by Form: SEE CHILD FORM CRF01
+
+Title Granted by Form: SEE CHILD FORM CRF02
+
+[bold]*Stamps Required: This page is invalid unless all marked stamps are present[/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[ ] Head of Security
+Quartermaster      \[ ]    \[ ] Chief Engineer
+Research Director \[X]    \[ ]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[ ] Psycologist
+Trader                     \[ ]    \[ ] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

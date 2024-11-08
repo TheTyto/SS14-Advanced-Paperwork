@@ -1,0 +1,38 @@
+#Vistor PDA PTF10
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=2]                    PARENT FORM: PTF10     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#028a0f][head=3]PARENT FORM SUBJECT: Visitor Onboarding        [/color][/head]
+          *Name:  
+       *Species: 
+ *Origin of Travel:
+-----------------------------------------------------------------------------
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+Once stamped, this visitor is to be issued a company standard PDA with the role of Passenger without any further documentation.
+
+[bold]*Stamps Required: [/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[ ] Head of Security
+Quartermaster      \[ ]    \[ ] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[A] Greytider
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

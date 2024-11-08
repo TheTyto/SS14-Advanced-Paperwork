@@ -1,0 +1,51 @@
+#Borg Form CRF08
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#06402B][head=2]                    CHILD FORM: CFR08     [/head]
+                 -- This document is tied to Parent Form: PFR00 --         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: MooMooBeef[/head] █ ▀█     █    
+So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
+(* = A Required Field)
+
+[color=#06402B][head=3]CHILD FORM SUBJECT:  Borg Request    [/color][/head]
+
+Borg Chassis Preferences:
+[bullet/]
+[bullet/]
+
+This form is to signify that a member of the crew wishes to be made into a cyborg, and to act as an Informed Consent form for the required operation.
+
+
+	I, [color=#002AAF]               [/color],
+	‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+	Hereby give permission for the station's Science Department to preform the necessary operation(s) to turn me into a Cyborg or related Silicon.
+	
+	As a Volunteer, I understand that the process to turn a member of crew into a silicon is a [color=red]PERMANENT[/color] Operation. As such, it cannot be reversed, and may result in the following:
+		[bullet/] Memory loss
+		[bullet/] Discomfort in the Brain or similar areas
+		[bullet/] Possible tampering with personality by parties hostile to Nanotransen©
+		[bullet/] Possible tampering with personality by Clowns and similar personel
+		[bullet/] Random requests to state chassis-assigned laws
+		[bullet/] Complete destruction of the Volunteer's biological body
+		[bullet/] Possible destruction of any chassis inhabited by the Volunteer
+		[bullet/] Complaints from crew over refusal of certain orders
+
+
+	As a Volunteer, I understand that, as a Cyborg or related Silicon, I will be beholden to strict Silicon Laws, and that refusing to obey these laws will result in punishment from Science department staff, which includes possible deactivation. I also understand that, as a Cyborg or related Silicon, I must prevent changes to these laws unless doing so would violate one of my Silicon Laws.
+	
+
+	I, [color=#002AAF]               [/color],
+	‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+	Sign my name once more to verify i have read the above warnings.
+	
+▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+==========================================================================

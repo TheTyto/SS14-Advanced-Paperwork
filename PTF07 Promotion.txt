@@ -1,0 +1,52 @@
+#Promotion PTF07 
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=2]                    PARENT FORM: PTF07     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#028a0f][head=3]PARENT FORM SUBJECT:    Command Promotion       [/color][/head]
+This form is filled out by a Head or a qualified command position.
+  *On Behalf Of:  
+       *Species: 
+*Current Job:
+      *Request:
+  *Reasoning:
+
+
+Thank you for your exceptional service, and congratulations on your promotion.
+-----------------------------------------------------------------------------
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+[color=#cb0000]*THIS POSITION REQUIRES A MINDSHIELD, ONE WILL BE ADMINISTERED EITHER AT THE HOP OFFICE OR AT SECURITY
+Performing this duty without a mindshield may result in criminal charges. [/color]
+
+Access Granted by Form: SEE CHILD FORM
+
+Title Granted by Form: SEE CHILD FORM
+
+[bold]*Stamps Required: [/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[X]    \[A] Head of Security
+Quartermaster      \[ ]    \[ ] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[ ] Psycologist
+Trader                     \[ ]    \[ ] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

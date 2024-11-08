@@ -1,0 +1,84 @@
+#Security Transfer PTF02 
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=2]                    PARENT FORM: PTF02     [/head]
+                 -- This document is tied to Child Forms:--         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+(* = A Required Field)
+
+[color=#028a0f][head=3]PARENT FORM SUBJECT:[/color][color=#cb0000]SECURITY TRANSFER[/color][/head]
+          *Name:  
+       *Species: 
+*Current Job:
+      *Request: To be transferred to the Security Department serving a role approved by the Head of Security. 
+  *Reasoning:
+
+[bold] *Please only fill out the following tasks you are trained to perform: [/bold]
+Blank fields will not be grounds for rejection, only for task assignment.
+Incomplete cerfications can be taught by senior staff as needed.
+ 
+Core Duties:[color=#cb0000]
+\[ ] I have completed my NT degree in Space Law.
+\[ ] I have completed the NT Deescalation Training Video "Less-than-Lethal for Non-lethal".
+\[ ] I have completed the NT Leniency Training Video "It's Okay to Clown Around".
+\[ ] I have completed the NT Protocol Training Video "Coming Back With a Warrant".
+\[ ] I have completed my NT firearm permit and training video.
+\[ ] I have completed my NT certification in Prisoner Treatment and Protocol.
+\[ ] I have completed my NT certification in Alert Level Protocols and Searches.
+
+[/color]
+Advanced Duties:[color=#cb0000]
+\[ ] I have completed my NT certification in Criminal Database Maintenance.
+\[ ] I have completed my NT EVA Operational Permit for external patrols.
+\[ ] I have read Pryce & Carter's Deep Space Survival Procedure and Protocol.
+\[ ] I have completed my NT portfolio of Warrant Paperwork Templates.
+\[ ] I have completed my NT Full Piloting Permit for Shuttle Commandeering Operations.
+\[ ] I have completed my NT Theoretical Wartime Tactics against Completely Hypothetical Organizations certification.
+[/color]
+Detective Duties:[color=#cb0000]
+\[ ] I have completed my NT certification in Forensic Scanning.
+\[ ] I have completed my NT certification in Door Log Investigation.
+\[ ] I have completed my NT Active Duty Intoxication Permit.
+\[ ] I have completed my NT portfolio of Forensic Paperwork Templates.
+[/color]
+The following box is required to be checked in order to process this form:
+[color=#ff0000][bold] \[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
+
+[bullet/] I will have patience when it comes to the Clown and Mime, and shall utilize laughter to deescalate confrontations.
+[bullet/] I am fully responsible for my own equipment, and shall not draw it unless I intend to use it.
+[bullet/] I will not gamble using bribe money, its bad enough I have it.
+[/color]
+
+-----------------------------------------------------------------------------
+
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+
+Access Granted by Form: SEE CHILD FORM CRF01
+
+Title Granted by Form: SEE CHILD FORM CRF02
+
+[bold]*Stamps Required: This page is invalid unless all marked stamps are present[/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[X] Head of Security
+Quartermaster      \[ ]    \[ ] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Warden                    \[A]    \[A] Detective
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[ ] Psycologist
+Trader                     \[ ]    \[ ] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

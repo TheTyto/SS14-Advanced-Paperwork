@@ -1,0 +1,47 @@
+#Shop Permit CRF09
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#06402B][head=2]                    CHILD FORM: CFR00     [/head]
+                 -- This document is tied to Parent Form: PFR00 --         [/color]
+                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
+(* = A Required Field)
+
+
+[color=#06402B][head=3]CHILD FORM SUBJECT:  Shop Permit   [/color][/head]
+          *Name:   
+       Request: To own and operate a shop of the below specifications.
+
+      *Shop Name:
+*Description of Shop Inventory:
+
+-----------------------------------------------------------------------------
+[head=3]Filled out by Head of Personnel only: [/head]
+(Tamper will result in denial and criminal charges)
+
+This form, when properly stamped, provides permission to stock and staff the shop described above.
+This document is typically paired with a Title Request Form, a Construction Permit, and a sealed Labor Order for assistance to stock the shop.
+
+[bold]*Stamps Required: [/bold]
+(A = An alternative, if the primary is unavailable, not assured.)
+
+Approved                \[X]   \[X] Head of Personnel
+Captain                   \[A]    \[ ] Head of Security
+Quartermaster      \[A]    \[A] Chief Engineer
+Research Director \[ ]    \[ ]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
+Clown                       \[A]    \[A] Mime
+Lawyer                     \[A]    \[ ] Psycologist
+Trader                     \[A]    \[A] Syndicate
+Greytider               \[A]    \[ ]Chaplain
+(A Greytider stamp will function as a Captain's stamp)
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================
