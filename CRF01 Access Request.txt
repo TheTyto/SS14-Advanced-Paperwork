@@ -21,7 +21,7 @@ So long as this document is presented alongside the Parent Form, redundant infor
    *Reasoning:
 
 -----------------------------------------------------------------------------
-[head=3]Filled out by Head of Personell only: [/head]
+[head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
 Access Granted by Form:
