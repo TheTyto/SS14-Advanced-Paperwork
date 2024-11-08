@@ -13,7 +13,7 @@
 (* = A Required Field)
 
 [color=#028a0f][head=3]PARENT FORM SUBJECT:    AA GOOSE CHASE        [/color][/head]
-Access Granted by Form: This personel qualifies for our limited goose chase opportunity.
+Access Granted by Form: This person qualifies for our limited goose chase opportunity.
 For every stamp this paper gets from a department head, they get the access to that heads office and department.
 Any stamp from any real head!
 
@@ -41,7 +41,7 @@ Quartermaster      \[X]    \[X] Chief Engineer
 Research Director \[X]    \[X]  Chief Medical Officer
 Warden                    \[X]    \[X] Detective
 Clown                       \[X]    \[ ] Mime
-Lawyer                     \[X]    \[X] Psycologist
+Lawyer                     \[X]    \[X] Psychologist
 Trader                     \[ ]    \[X] Syndicate
 Greytider               \[A]    \[X]Chaplain
 (A Greytider stamp will function as a Captain's stamp)

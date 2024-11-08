@@ -25,13 +25,13 @@ So long as this document is presented alongside the Parent Form, redundant infor
 RETURN TO HOP OFFICE ONCE FILLED OUT. THE HOP WILL SEAL THE ORDER FOR YOU TO DELIVER
 
 -----------------------------------------------------------------------------
-[head=3]Filled out by Head of Personell only: [/head]
+[head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
 THIS DOCUMENT SHOULD COME IN AN ENCLOSED ENVELOPE. AN UNSEALED DOCUMENT MAY BE EVIDENCE OF TAMPERING.
 
 This form, when stamped correctly, acts as a command to command labor request, should the request be deemed reasonable, the corresponding head will provide the list number of personnel and/or supplies.
-Unless waived by the CE, construction projects should have at least one delegated department representative for project oversite and assistance.
+Unless waived by the CE, construction projects should have at least one delegated department representative for project oversight and assistance.
 
 
 [bold]*Stamps Required: [/bold]
@@ -43,7 +43,7 @@ Quartermaster      \[ ]    \[ ] Chief Engineer
 Research Director \[ ]    \[ ]  Chief Medical Officer
 Warden                    \[ ]    \[ ] Detective
 Clown                       \[ ]    \[ ] Mime
-Lawyer                     \[ ]    \[ ] Psycologist
+Lawyer                     \[ ]    \[ ] Psychologist
 Trader                     \[ ]    \[ ] Syndicate
 Greytider               \[A]    \[A]Chaplain
 (A Greytider stamp will function as a Captain's stamp)

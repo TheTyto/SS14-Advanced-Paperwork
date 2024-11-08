@@ -32,7 +32,7 @@ Quartermaster      \[ ]    \[ ] Chief Engineer
 Research Director \[ ]    \[ ]  Chief Medical Officer
 Warden                    \[A]    \[ ] Detective
 Clown                       \[A]    \[A] Mime
-Lawyer                     \[A]    \[A] Psycologist
+Lawyer                     \[A]    \[A] Psychologist
 Trader                     \[ ]    \[X] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
