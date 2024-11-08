@@ -47,7 +47,7 @@ Paramedic Duties:[color=#5b97bc]
 \[ ] I have completed my NT EVA Operational Permit for external permissions.
 \[ ] I have read Pryce & Carter's Deep Space Survival Procedure and Protocol.
 [/color]
-Psycologist Duties:[color=#5b97bc]
+Psychologist Duties:[color=#5b97bc]
 \[ ] I have completed my NT certification in Standard Issues Placebos.
 \[ ] I have completed my NT certification Gaslighting.
 \[ ] I have completed my NT Drug Prescriber Permit.
@@ -81,7 +81,7 @@ Quartermaster      \[ ]    \[ ] Chief Engineer
 Research Director \[ ]    \[X]  Chief Medical Officer
 Warden                    \[ ]    \[ ] Detective
 Clown                       \[ ]    \[ ] Mime
-Lawyer                     \[ ]    \[A] Psycologist
+Lawyer                     \[ ]    \[A] Psychologist
 Trader                     \[ ]    \[ ] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
