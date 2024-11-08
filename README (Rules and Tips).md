@@ -9,7 +9,10 @@ This is a collection of a more complex form system, inspired and built off of th
 -The aim should be "Yes I DO have a form for that." and with the help of the Lawful Evils among you, we will construct a database where no request feels original. Mwahaha.
   
 ==THE BASICS==
-
+There are currently 3 types of forms:
+PTF= Parent Transfer Form (They tend to be Job related PRF's)
+PRF= Parent Request Form (This is the form the crew should spend the most time on)
+CRF= Child Request Form (These are handed out along side a main Parent Form, and have minimal editing required)
 -The proper way to use these forms is by starting with a Parent Form containing all of the important details, and then adding Child Forms for each action needed in that Parent Form. <br />
 -The Child Forms are not designed for sandbagging anyone but Security, only to add to the physical paperwork handed someone in a folder. They usually only require the crews name to be put on it and the occasional "I agree" checkmark. <br />
 -Requests that need a child form but dont have an applicable Parent Form can instead use the Fasttrack form, have a new one written up using the base template, or ignore the Parent Form if you choose.
