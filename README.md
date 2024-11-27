@@ -1,5 +1,6 @@
 # SS14-Advanced-Paperwork
 This is a collection of a more complex form system, inspired and built off of the forms provided by Moomoobeef. If you have any suggestions or optimizations feel free to reach out to me on discord: tyto_theowl
+You can find Moomoobeef's original collection here: https://github.com/Moomoobeef/ss14-forms-txt
 
 ## Gameplay Intent Behind the Forms
 * These forms are meant to improve gameplay in a "yes, and" format. Treat these as a DnD Dungeon Master, allowing the player to get what they want, but only by overcoming a fitting challenge.
