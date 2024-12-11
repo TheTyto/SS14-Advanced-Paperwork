@@ -16,6 +16,7 @@ So long as this document is presented alongside the Parent Form, redundant infor
 
 [color=#006D5B][head=3]CHILD FORM:  Name Change    [/head]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+A form for changing a crew members name on their ID card.
           *Name:  
        *Species: 
       Request: Name will be changed as specified below.
@@ -28,8 +29,8 @@ So long as this document is presented alongside the Parent Form, redundant infor
 Optional HoP Notes:
 
 [bold]*Stamps Required: HoP will adjust as needed.[/bold]
-This form is validated by the HoP stamp, but only processed once approved.
-(A = An alternative, if the primary is unavailable, HoP approval not assured.)
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
