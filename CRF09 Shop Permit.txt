@@ -6,42 +6,46 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#06402B][head=2]                    CHILD FORM: CFR00     [/head]
+[color=#006D5B][head=2]                    CHILD FORM: CFR00     [/head]
                  -- This document is tied to Parent Form: PFR00 --         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█  
 So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
 (* = A Required Field)
 
 
-[color=#06402B][head=3]CHILD FORM SUBJECT:  Shop Permit   [/color][/head]
+[color=#06402B][head=3]CHILD FORM:  Merchant / Shop Permit   [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This form, when properly stamped, provides permission to stock and staff the shop described below.
+This document is typically paired with a Title Request Form, a Construction Permit, Restricted/Contra Permits and a sealed Labor Order for assistance to stock the shop, but these are not required for simpler shops.
+
           *Name:   
-       Request: To own and operate a shop of the below specifications.
+         Request: To own and operate a shop of the below specifications. Location is optional.
 
       *Shop Name:
+   Initial Location:
 *Description of Shop Inventory:
 
 -----------------------------------------------------------------------------
-[head=3]Filled out by Head of Personnel only: [/head]
+[head=3]Filled out by Command only: [/head]
 (Tamper will result in denial and criminal charges)
 
-This form, when properly stamped, provides permission to stock and staff the shop described above.
-This document is typically paired with a Title Request Form, a Construction Permit, and a sealed Labor Order for assistance to stock the shop.
+Optional Head Notes:
 
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
-Approved                \[X]   \[X] Head of Personnel
+Approved                \[X]   \[A] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
-Quartermaster      \[A]    \[A] Chief Engineer
+Quartermaster      \[A]    \[ ] Chief Engineer
 Research Director \[ ]    \[ ]  Chief Medical Officer
 Warden                    \[ ]    \[ ] Detective
-Clown                       \[A]    \[A] Mime
-Lawyer                     \[A]    \[ ] Psychologist
-Trader                     \[A]    \[A] Syndicate
+Clown                       \[ ]    \[ ] Mime
+Lawyer                     \[ ]    \[ ] Psychologist
+Trader                     \[A]    \[ ] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ===================================================
