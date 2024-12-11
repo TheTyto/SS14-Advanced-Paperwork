@@ -6,15 +6,19 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#06402B][head=2]                    CHILD FORM: CFR07     [/head]
+[color=#006D5B][head=2]                    CHILD FORM: CFR07     [/head]
                  -- This document is tied to Parent Form: PFR00 --         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█   
 So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
 (* = A Required Field)
 
-[color=#06402B][head=3]CHILD FORM SUBJECT: Department Labor Order[/color][/head]
-          *Name:  
+[color=#006D5B][head=3]CHILD FORM:  Department Labor Order [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This form, when stamped correctly, acts as a command to command labor request, should the request be deemed reasonable, the corresponding head will provide the list number of personnel and/or supplies.
+Unless waived by the CE, construction projects should have at least one delegated department representative for project oversight and assistance.
+
+          Name:  
 *Laboring Department:
       *Request: 
 [/bullet]
@@ -30,24 +34,22 @@ RETURN TO HOP OFFICE ONCE FILLED OUT. THE HOP WILL SEAL THE ORDER FOR YOU TO DEL
 
 THIS DOCUMENT SHOULD COME IN AN ENCLOSED ENVELOPE. AN UNSEALED DOCUMENT MAY BE EVIDENCE OF TAMPERING.
 
-This form, when stamped correctly, acts as a command to command labor request, should the request be deemed reasonable, the corresponding head will provide the list number of personnel and/or supplies.
-Unless waived by the CE, construction projects should have at least one delegated department representative for project oversight and assistance.
+Optional HoP Notes:
 
-
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
-Quartermaster      \[ ]    \[ ] Chief Engineer
+Quartermaster      \[ ]    \[A] Chief Engineer
 Research Director \[ ]    \[ ]  Chief Medical Officer
 Warden                    \[ ]    \[ ] Detective
 Clown                       \[ ]    \[ ] Mime
 Lawyer                     \[ ]    \[ ] Psychologist
-Trader                     \[ ]    \[ ] Syndicate
-Greytider               \[A]    \[A]Chaplain
+Trader                     \[A]    \[ ] Syndicate
+Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ==========================================================================
