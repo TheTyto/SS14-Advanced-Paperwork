@@ -6,15 +6,16 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#06402B][head=2]                    CHILD FORM: CRF05     [/head]
+[color=#006D5B][head=2]                    CHILD FORM: CRF03     [/head]
                  -- This document is tied to Parent Form: PFR00 --         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█    
 So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
 (* = A Required Field)
 
 
-[color=#06402B][head=3]CHILD FORM SUBJECT:  Name Change    [/color][/head]
+[color=#006D5B][head=3]CHILD FORM:  Name Change    [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
           *Name:  
        *Species: 
       Request: Name will be changed as specified below.
@@ -24,21 +25,22 @@ So long as this document is presented alongside the Parent Form, redundant infor
 [head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
+Optional HoP Notes:
 
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+This form is validated by the HoP stamp, but only processed once approved.
+(A = An alternative, if the primary is unavailable, HoP approval not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
 Quartermaster      \[ ]    \[ ] Chief Engineer
 Research Director \[ ]    \[ ]  Chief Medical Officer
-Warden                    \[ ]    \[ ] Detective
+Warden                    \[ ]    \[A] Detective
 Clown                       \[ ]    \[ ] Mime
 Lawyer                     \[A]    \[ ] Psychologist
 Trader                     \[ ]    \[ ] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ===================================================
