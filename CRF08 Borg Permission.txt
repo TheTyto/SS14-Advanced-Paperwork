@@ -6,15 +6,15 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#06402B][head=2]                    CHILD FORM: CFR08     [/head]
+[color=#006D5B][head=2]                    CHILD FORM: CFR08     [/head]
                  -- This document is tied to Parent Form: PFR00 --         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: MooMooBeef[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Moomoobeef[/bold] █ ▀█      
 So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
 (* = A Required Field)
 
-[color=#06402B][head=3]CHILD FORM SUBJECT:  Borg Request    [/color][/head]
-
+[color=#006D5B][head=3]CHILD FORM:  Borg Request    [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 Borg Chassis Preferences:
 [bullet/]
 [bullet/]
