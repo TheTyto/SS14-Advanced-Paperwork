@@ -28,9 +28,9 @@ So long as this document is presented alongside the Parent Form, redundant infor
 
 Optional Notes from HoP:
 
-
 [bold]*Stamps Required: HoP will adjust as needed.[/bold]
-(A = An alternative, if the primary is unavailable, HoP approval not assured.)
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
@@ -42,7 +42,6 @@ Lawyer                     \[ ]    \[ ] Psychologist
 Trader                     \[ ]    \[ ] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ==========================================================================
