@@ -1,19 +1,21 @@
 #Access Request CRF01
-                            [color=#1b67a5]╔══════════════════╗
+                           [color=#1b67a5]╔══════════════════╗
                             ║███░███░░░░██░░░░░║
                             ║░██░████░░░██░░░░░║
                             ║░░█░██░██░░██░█░░░║
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#06402B][head=2]                    CHILD FORM: CFR01     [/head]
-                 -- This document is tied to Parent Form: PFR00 --         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+[color=#006D5B][head=2]                    CHILD FORM: CRF01     [/head]
+                 -- This document is tied to Parent Form: PRF00--[/color]
+This access request form does not require a parent form unless it is contexual.
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█    
 So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
 (* = A Required Field)
 
-[color=#06402B][head=3]CHILD FORM SUBJECT:  Additional Access    [/color][/head]
+[color=#006D5B][head=3]CHILD FORM:  Additional Access    [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
           *Name:  
       *Request: To obtain the accesses listed below:
 [bullet/]
@@ -24,11 +26,11 @@ So long as this document is presented alongside the Parent Form, redundant infor
 [head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
-Access Granted by Form:
+Optional Notes from HoP:
 
 
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+(A = An alternative, if the primary is unavailable, HoP approval not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
