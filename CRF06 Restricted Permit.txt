@@ -6,19 +6,21 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#06402B][head=2]                    CHILD FORM: CRF03     [/head]
-                 -- This document is tied to Parent Form: PRF02 --         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+[color=#006D5B][head=2]                    CHILD FORM: CRF06     [/head]
+                 -- This document is tied to Parent Form: PRF00 --         [/color]
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█    
 So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
 (* = A Required Field)
 
 
-[color=#06402B][head=3]CHILD FORM SUBJECT:Restricted Item Permit    [/color][/head]
+[color=#006D5B][head=3]CHILD FORM:  Restricted Item Permit    [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This form is for permitting restricted department equipment.
           *Name:  
         Species: 
  Current Job:
-      *Request: This crew member has been authorized to use the following restricted items upon getting this form stamped by the appropriate heads.
+      *Request: This crew member has been authorized to use the following restricted items upon getting this form stamped by the appropriate heads:
 [bullet/]
 [bullet/]
 [bullet/]
@@ -28,9 +30,11 @@ So long as this document is presented alongside the Parent Form, redundant infor
 [head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
  
+Optional HoP Notes:
 
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
@@ -42,7 +46,6 @@ Lawyer                     \[ ]    \[ ] Psychologist
 Trader                     \[ ]    \[A] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ===================================================
