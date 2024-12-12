@@ -6,21 +6,22 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#028a0f][head=2]                    PARENT FORM: PRF09     [/head]
+[color=#028a0f][head=2]                 PARENT FORM: PRF09     [/head]
                  -- This document is tied to Child Forms:--         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█     
 (* = A Required Field)
 
-[color=#028a0f][head=3]PARENT FORM SUBJECT: Promotion to Speech Aid       [/color][/head]
-This form is filled out by a qualified command position if necessary.
+[color=#028a0f][head=3]PARENT FORM: Promotion to Speech Aid       [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This form is filled out by a qualified command position if necessary. The aid may have their job title changed to Speech Aide through this form.
   *Aidee:
     *Aid:  
 *Current Department:
       *Request: 
   *Reasoning: The aidee is required to perform either department or command verbal checkins and needs an aid.
 Communication Frequencies Granted by Form:
-
+[bullet/]
 
 -----------------------------------------------------------------------------
 [head=3]Filled out by Head of Personnel only: [/head]
@@ -29,10 +30,11 @@ Communication Frequencies Granted by Form:
 [color=#cb0000]*THIS POSITION REQUIRES A MINDSHIELD, ONE WILL BE ADMINISTERED EITHER AT THE HOP OFFICE OR AT SECURITY
 Performing this duty without a mindshield may result in criminal charges. [/color]
 
-Communication Frequencies Granted by Form:
+Optional Notes from HoP: 
 
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[A] Head of Security
@@ -40,11 +42,10 @@ Quartermaster      \[ ]    \[ ] Chief Engineer
 Research Director \[ ]    \[ ]  Chief Medical Officer
 Warden                    \[ ]    \[ ] Detective
 Clown                       \[ ]    \[A] Mime
-Lawyer                     \[A]    \[A] Psychologist
+Lawyer                     \[ ]    \[A] Psychologist
 Trader                     \[ ]    \[ ] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ===================================================
