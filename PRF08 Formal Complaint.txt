@@ -6,13 +6,14 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#028a0f][head=2]                    PARENT FORM: PRF08     [/head]
+[color=#028a0f][head=2]                 PARENT FORM: PRF08     [/head]
                  -- This document is tied to Child Forms:--         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: MooMooBeef[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█   
 (* = A Required Field)
 
-[color=#028a0f][head=3]PARENT FORM SUBJECT:Formal Complaint Form[/color][/head]
+[color=#028a0f][head=3]PARENT FORM:  Formal Complaint Form[/color][/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 [head=2]Section A[/head]
 Your Name:          
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
