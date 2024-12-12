@@ -6,13 +6,14 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#028a0f][head=2]                    PARENT FORM: PTF00     [/head]
+[color=#028a0f][head=2]                 PARENT FORM: PRF00     [/head]
                  -- This document is tied to Child Forms:--         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█      
 (* = A Required Field)
 
-[color=#028a0f][head=3]PARENT FORM SUBJECT:    AA GOOSE CHASE        [/color][/head]
+[color=#028a0f][head=3]PARENT FORM:      AA GOOSE CHASE        [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 Access Granted by Form: This person qualifies for our limited goose chase opportunity.
 For every stamp this paper gets from a department head, they get the access to that heads office and department.
 Any stamp from any real head!
@@ -21,31 +22,32 @@ Any stamp from any real head!
        *Species: 
  Current Job:
       *Request: All Access, granted through the means below.
-  [bold]*Reasoning:[/bold]
+  *Reasoning:
 -----------------------------------------------------------------------------
 [head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
-This is a serious form, if a head stamps this, they are responsible for the crew member while in their department.
+This is a serious form, if a head stamps this, they are responsible for the crew member while in their department. 
+Head Office Access is only given verbally over command communications. The stamps only grant Department Access.
 
-Access Granted By This Form: All Access, granted through the stamps below.
+Title Granted by Completed Form: AA (Job Title Here) / Head of Goose Chasing
 
-Title Granted by Form: AA [Job Title] / Head of Goose Chasing
+Optional Notes from HoP:
 
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
 Approved                \[X]   \[X] Head of Personnel   (HoP access is not given)
 Captain                   \[A]    \[X] Head of Security
 Quartermaster      \[X]    \[X] Chief Engineer
 Research Director \[X]    \[X]  Chief Medical Officer
-Warden                    \[X]    \[X] Detective
+Warden                    \[ ]    \[X] Detective
 Clown                       \[X]    \[ ] Mime
 Lawyer                     \[X]    \[X] Psychologist
-Trader                     \[ ]    \[X] Syndicate
+Trader                     \[ ]    \[ ] Syndicate
 Greytider               \[A]    \[X]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ===================================================
