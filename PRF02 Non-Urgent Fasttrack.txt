@@ -6,30 +6,34 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#ff5c00][head=2]                    PARENT FORM: PFR02     [/head]
+[color=#ff5c00][head=2]                 PARENT FORM: PRF00     [/head]
                  -- This document is tied to Child Forms:--         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█ 
 (* = A Required Field)
 
-[color=#ff5c00][head=3]PARENT FORM SUBJECT:    NON-URGENT FASTTRACK        [/color][/head]
-This document cuts down the required information for the parent ticket due to simplicity of the request. 
+[color=#ff5c00][head=3]PARENT FORM:    NON-URGENT FASTTRACK        [/color][/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This document cuts down the required information for the parent ticket due to the simplicity of the request.
 This relies on the professionalism of the HoP and their verbal interview to the listed crew below.
 
           *Name:  
       *Request:
+
+[bold]Important Note:[/bold] If this form has child forms attached to it, ONLY the name will be required on them and any stamps specified. The rest of the necessary portions will be filled by the HoP.
 
 -----------------------------------------------------------------------------
 [head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
 
-Child Forms? (y/n): N
+Child Forms? (y/n): Y
 
-Summary:
+Optional Notes from HoP:
 
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
@@ -41,7 +45,6 @@ Lawyer                     \[ ]    \[ ] Psychologist
 Trader                     \[ ]    \[ ] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ===================================================
