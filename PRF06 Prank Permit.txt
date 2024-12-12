@@ -6,30 +6,31 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#028a0f][head=2]                    PARENT FORM: PFR06     [/head]
-                 -- This document is tied to Child Forms:--         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+[color=#028a0f][head=2]                 PARENT FORM: PRF06     [/head]
+                 -- This document is tied to Child Forms:--         [/color] 
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█ 
 (* = A Required Field)
 
-[color=#028a0f][head=3]PARENT FORM SUBJECT:    Prank Permit        [/color][/head]
-          *Name:  
-        Species: 
- Current Job:
+[color=#028a0f][head=3]PARENT FORM:    Prank Permit        [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+          *Name: 
       *Request:
   *Reasoning:
+
+Notes from Clown/Mime: 
+
 -----------------------------------------------------------------------------
 [head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
 This form does not protect the pranker against security enforcement if the prank harms a crewmember or causes excessive damage to the station.
 
-Access Granted by Form: SEE CHILD FORM
+Optional Notes from HoP:
 
-Title Granted by Form: SEE CHILD FORM
-
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[A] Head of Security
@@ -37,11 +38,10 @@ Quartermaster      \[ ]    \[ ] Chief Engineer
 Research Director \[ ]    \[ ]  Chief Medical Officer
 Warden                    \[ ]    \[ ] Detective
 Clown                       \[X]    \[A] Mime
-Lawyer                     \[A]    \[ ] Psychologist
+Lawyer                     \[ ]    \[ ] Psychologist
 Trader                     \[ ]    \[ ] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ===================================================
