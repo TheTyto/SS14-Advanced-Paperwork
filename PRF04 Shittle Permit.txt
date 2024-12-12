@@ -6,13 +6,17 @@
                             ║░░░░██░░██░██░██░░║
                             ║░░░░██░░░████░███░║
                             ╚══════════════════╝[/color]
-[color=#028a0f][head=2]                    PARENT FORM: PFR04     [/head]
+[color=#028a0f][head=2]                 PARENT FORM: PRF03     [/head]
                  -- This document is tied to Child Forms:--         [/color]
-                                        [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+                                        [color=#1b67a5][head=3]NanoTrasen[/ head]
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█   
 (* = A Required Field)
 
-[color=#028a0f][head=3]PARENT FORM SUBJECT:Shittle Permit        [/color][/head]
+[color=#028a0f][head=3]PARENT FORM:    Shittle Permit        [/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+This form, when properly stamped, provides construction permission to produce and pilot the shuttle described above.
+This document is typically paired with a Title Request Form, an external Access Form, and a sealed Labor Order for assistance.
+
           *Name:  
        *Species: 
 *Current Job:
@@ -20,30 +24,29 @@
 *Shuttle Name:
 *Shuttle Purpose:
 
-The following box is required to be checked in order to process this form:
+[italic]The following box is required to be checked in order to process this form:[/italic]
 \[ ] I have completed my NT Full Piloting Permit for Shuttle Operations.
 
 -----------------------------------------------------------------------------
 [head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
-This form, when properly stamped, provides construction permission to produce and pilot the shuttle described above.
-This document is typically paired with a Title Request Form, an external Access Form, and a sealed Labor Order for assistance.
+Optional Notes from HoP:
 
-[bold]*Stamps Required: [/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+ Form is validated by the HoP stamp, approved separately.
+ (A = Alternative if the primary is unavailable, not assured.)
 
-Approved                \[X]   \[X] Head of Personnel
+Approved                \[X]   \[A] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
-Quartermaster      \[A]    \[X] Chief Engineer
+Quartermaster      \[X]    \[A] Chief Engineer
 Research Director \[ ]    \[ ]  Chief Medical Officer
 Warden                    \[ ]    \[ ] Detective
 Clown                       \[ ]    \[ ] Mime
 Lawyer                     \[ ]    \[ ] Psychologist
-Trader                     \[A]    \[A] Syndicate
+Trader                     \[A]    \[ ] Syndicate
 Greytider               \[A]    \[ ]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
-
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
 ===================================================
