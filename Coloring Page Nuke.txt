@@ -1,0 +1,55 @@
+░░░░░░[color=#1E2114]█████░░░░░░░░░░░░░░░░░░░░
+░░░░░█[color=#515835]█[color=#44492C]██[/color][/color]██░░░░░░████████░░░░░░
+░░░░█[color=#515835]██[color=#44492C]█[color=#1E2114]█[/color]█[color=#1E2114]█░░░███[color=#44492C]████████[/color]██░░░░
+░░░█[color=#515835]█[color=#44492C]██[color=#1E2114]█[/color]█[color=#1E2114]██░██[color=#75301D]█[color=#44492C]█████[color=#515835]█████[color=#75301D]█[/color]█[color=#1E2114]█░░░
+░░█████[color=#44492C]██[/color]███[color=#44492C]██[color=#33150C]█[/color]████[color=#515835]██████[color=#33150C]█[/color]██[color=#1E2114]█░░
+░░█[/color]█[color=#44492C]██[color=#1E2114]██[/color]█[color=#1E2114]█[/color]█[color=#A8A8B7]█[color=#89899E]██[/color]█[/color]██[color=#1E2114]█[color=#515835]██████[color=#75301D]█[/color]████[/color]█░
+░░█[color=#515835]█[color=#44492C]██[color=#1E2114]███[/color]█[color=#89899E]█[color=#00FF00]██[color=#430000]██[color=#89899E]█[color=#1E2114]█[color=#515835]███████[color=#33150C]█[/color]███[color=#D5D531]█[color=#1E2114]█░
+░░█[color=#44492C]███[/color]█[color=#44492C]█[/color]█[color=#002BD2]█[color=#89899E]█[color=#00FF00]██[color=#430000]██[color=#89899E]█[color=#44492C]██[color=#515835]██████[color=#75301D]█[/color]██[color=#D5D531]███[color=#1E2114]█
+░░█[color=#44492C]███[/color]█[color=#44492C]█[color=#002BD2]█[/color]██[color=#A8A8B7]█[color=#89899E]██[/color]█[/color]██[color=#D5D531]████[/color]██[color=#33150C]█[/color]███[color=#D5D531]███[color=#1E2114]█
+░░█[color=#44492C]███[/color]█[color=#44492C]█[color=#002BD2]█[/color]███[color=#33150C]█[/color]███[color=#D5D531]██████[/color]█[color=#75301D]█[/color]███[color=#D5D531]███[color=#1E2114]█
+░░█[color=#44492C]███[/color]█[color=#002BD2]█[color=#E0210D]██[color=#44492C]██[color=#75301D]█[/color]██[color=#D5D531]█[color=#000000]██[/color]██[color=#000000]██[/color]█[color=#33150C]█[color=#44492C]███[color=#D5D531]███[color=#1E2114]█
+░[color=#89899E]█[/color]█[color=#44492C]███[/color]█[color=#29A400]██[color=#44492C]█[color=#E0210D]██[color=#33150C]█[color=#B4AD93]██[color=#D5D531]█[color=#000000]██[/color]██[color=#000000]██[/color]█[color=#75301D]█[color=#44492C]███[color=#D5D531]███[color=#1E2114]█
+[color=#89899E]█[color=#A8A8B7]█[color=#1E2114]█[color=#44492C]███[/color]███[color=#29A400]█[color=#44492C]█[color=#75301D]█[color=#B4AD93]█[color=#292929]█[color=#89899E]█[color=#D5D531]████████[color=#33150C]█[color=#44492C]████[color=#D5D531]█[color=#1E2114]█
+[color=#89899E]███[color=#44492C]███[color=#1E2114]███[color=#29A400]█[/color]██[color=#B4AD93]█[/color]█[color=#292929]█[color=#D5D531]███[color=#000000]██[/color]███[color=#44492C]███████░
+░[color=#89899E]███[color=#44492C]██[color=#1E2114]███[color=#29A400]█[/color]█[color=#75301D]█[color=#B4AD93]█[color=#292929]██[color=#44492C]█[color=#D5D531]██[color=#000000]██[/color]██[/color]██[color=#33150C]█[/color]███[color=#1E2114]██░
+░░[color=#89899E]███[color=#44492C]█[color=#1E2114]██[color=#89899E
+]████[color=#B4AD93]█[/color]█[/color]█[/color]██[color=#D5D531]████[/color]███[color=#1E2114]█[/color]██[color=#1E2114]███░
+░░█[color=#89899E]███[/color]█[color=#B4AD93]████████[/color]██[color=#44492C]██████[/color]█[color=#75301D]█[/color]██[color=#9D351C]███░
+░░[color=#1E2114]██[color=#89899E]███[color=#B4AD93]█[color=#1E2114]████[/color]█[color=#9D351C]███[color=#1E2114]██████[color=#9D351C]████[color=#8F2318]██[color=#501729]██░
+░░░░░[color=#89899E]██[color=#B4AD93]██████[color=#501729]███░░░░░[color=#8F2318]█████[color=#501729]█[color=#89899E]█[color=#292929]█[color=#501729]█[/color]█
+░░░░░░[/color]█[color=#89899E]██[color=#8F2318]██████████████████[/color]█[color=#292929]█░░
+░░░░░░[color=#501729]█[color=#8F2318]███[color=#9D351C]██[/color]███████████[color=#9D351C]██[/color]█[color=#501729]█[color=#292929]█░░░
+░░░░░░[/color]███[color=#9D351C]████[/color]█████████[color=#9D351C]████[/color]█░░░░
+░░░░░░░[color=#292929]█░█[color=#89899E]██[/color]█░░░░░░░░█[color=#89899E]██[/color]█[color=#501729]█[/color]██░░░
+░░░░░░██░█[color=#89899E]██[/color]█░░░░░░░░█[color=#89899E]██[/color]█░░░░░░
+░░░░░░░░░░██░░░░░░░░░░██░░░░░░░[/color]
+
+Basic Colors:
+00's) Less-Than-Silver Lining: 1E2114
+10's) Gunmetal Green: 44492C
+20's) Organ Trail Orange:
+8F2318
+30's) Captain's Obvious Yellow:
+D5D531
+40's) Boy Scout Brown: 75301D
+50's) Second Hand Silver: 89899E
+60's) Good Shift Green: 00FF00
+70's) Unlit Red: 430000
+80's) Tan: B4AD93
+90's) Space Funeral Black: 000000
+100's) Risk it Red:E0210D
+
+Advanced Colors:
+12) Blushing Bomb Green: 515835
+22) Good Wood Maroon: 501729
+23) Waxed Off Orange: 9D351C
+31) Tasteless Mustard Yellow: 9C9222
+42) Loose End Brown: 33150C
+52) Second Place Silver: A8A8B7
+91) Maint Grey: 292929
+
+101) Blow Up Blue: 
+002BD2
+102) Risk It Red:E0210D
+103) Gibbing Green: 29A400
