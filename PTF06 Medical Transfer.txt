@@ -16,7 +16,7 @@
           *Name:  
        *Species: 
 *Current Job:
-      *Request: To be transferred to the Security Department serving a role approved by the Chief Medical Officer. 
+      *Request: To be transferred to the Medical Department serving a role approved by the Chief Medical Officer. 
   *Reasoning:
 
 [bold] *Please only fill out the following tasks you are trained to perform: [/bold]
