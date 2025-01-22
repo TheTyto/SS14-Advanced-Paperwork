@@ -21,10 +21,10 @@ There are currently 3 types of forms:
 
 ## Document Rules and Tips
 
-1. The crew should not have to delete text or have any difficulty finding where to type. Removing 'Sample Person' from every form turns formatting into the most frustrating part of the paperwork.
+1. The crew should not have to delete text or have any difficulty finding where to type. Having to remove 'Sample Person' from every form turns formatting into the most frustrating part of the paperwork.
 2. If someone brings their own paperwork, remember to "Yes, and." If it has the NT Logo, say something like "Well this is an older form but it's Nanotrasen approved." Dont gatekeep bureaucracy!
 3. Stamps are your law, aside from validating them with Commands staff, lawyer up for your crew. If they have the stamps, they have approval. Debate the HoS for some good nerdy friction!
 4. As stated in 3, I like to play as if the HoP is the HoS's rival. You are a nonmalicious enabler to crew antics, your goal is to just have it documented with a permit, to the HoS's dismay.
 5. The HoP stamp and the Approved stamp are different treat them as such. The HoP stamp makes documents unalterable on their way to be stamped, save the approved stamp for the finished form.
 
-Bonus Tip: Use sealed envelopes or even 'return' envelopes for important documents that you are worried might get tampered with, and use pill bottles if you run out of folders.
+Bonus Tip: Use sealed envelopes or even 'return' envelopes for important documents that you are worried might get tampered with.
