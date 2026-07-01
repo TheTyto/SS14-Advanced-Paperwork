@@ -7,12 +7,12 @@
 [color=#ff0000][head=2]                    PARENT FORM: PRF07     [/head]
                  -- This document is tied to Child Forms:--         [/color]
                                         [head=3]NotATrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█  
 (* = A Required Field)
 
 [color=#ff0000][head=3]PARENT FORM SUBJECT:Permit to Assail HoP Office     [/color][/head]
           *Name:
-       *Species: 
+  *Calling Card: 
  Current Job: Syndicate
       *Request: Permission to enact unspecified acts of violence on  the HoP Office.
   [bold]*Reasoning: Unfair treatment, sandbagging of duties, and mass wasting of paper.[/bold]
@@ -20,7 +20,7 @@
 [head=3]Filled out by Head of Personnel only: [/head]
 (Tamper will result in denial and criminal charges)
 
-This is a serious form. The person listed on this form is permitted by the authorities stamped below to enact terrorism on the HoP office.
+This is a serious form. The person listed on this form is enabled by the authorities stamped below to enact a public display of terror utilizing the HoP office.
 
 
 [bold]*Stamps Required: [/bold]
