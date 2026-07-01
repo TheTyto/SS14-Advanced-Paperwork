@@ -54,8 +54,8 @@ Psychologist Duties:[color=#5b97bc]
 \[ ] I have completed my NT Drug Prescriber Permit.
 \[ ] I have completed my NT portfolio of Mental Health Paperwork Templates.
 [/color]
-The following box is required to be checked in order to process this form:
-[color=#ff0000][bold] \[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
+The following box is required to be checked in order to process this form:[color=#ff0000][bold]
+\[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
 
 [bullet/] I agree that medical malpractice is a myth constructed by bad actors, and will not waste company time reporting fellow staff.
 [bullet/] I wave all medical insurances provided by Nanotrasen, as my expensive and extensive training should prevent last harm to my own body.
