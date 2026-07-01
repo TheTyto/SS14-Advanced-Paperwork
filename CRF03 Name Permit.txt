@@ -8,6 +8,7 @@
                             ╚══════════════════╝[/color]
 [color=#006D5B][head=2]                    CHILD FORM: CRF03     [/head]
                  -- This document is tied to Parent Form: PFR00 --         [/color]
+[italic]Name change form does not require a parent form unless it is contexual.[/italic]
                                         [color=#1b67a5][head=3]NanoTrasen[/ head]
      █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█    
 So long as this document is presented alongside the Parent Form, redundant information (aside from required) does not need to be filled out and does not need the approval stamp.
@@ -35,12 +36,12 @@ Optional HoP Notes:
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
 Quartermaster      \[ ]    \[ ] Chief Engineer
-Research Director \[ ]    \[ ]  Chief Medical Officer
-Warden                    \[ ]    \[A] Detective
+Research Director \[ ]    \[A]  Chief Medical Officer
+Warden                    \[ ]    \[ ] Detective
 Clown                       \[ ]    \[ ] Mime
-Lawyer                     \[A]    \[ ] Psychologist
+Lawyer                     \[A]    \[A] Psychologist
 Trader                     \[ ]    \[ ] Syndicate
-Greytider               \[A]    \[ ]Chaplain
+Greytider               \[A]    \[A]Chaplain
 (A Greytider stamp will function as a Captain's stamp)
 
 STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
