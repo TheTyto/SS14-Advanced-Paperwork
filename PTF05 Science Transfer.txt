@@ -9,11 +9,11 @@
 [color=#028a0f][head=2]                    PARENT FORM: PTF05     [/head]
                  -- This document is tied to Child Forms:--         [/color]
                                         [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█  
 (* = A Required Field)
 
-[color=#028a0f][head=3]PARENT FORM SUBJECT:
-[/color][color=#c96dbf]SCIENCE TRANSFER[/color][/head]
+[color=#028a0f][head=3]PARENT FORM:  [/color][color=#c96dbf]SCIENCE TRANSFER[/color][/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
           *Name:  
        *Species: 
 *Current Job:
@@ -43,8 +43,8 @@ Robotics Duties:[color=#c96dbf]
 \[ ] I have completed my NT certification in Asimovs Laws and Recall Procedure.
 \[ ] I have completed my NT permit in Medical Gibbing and MMI Borging Procedure
 [/color]
-The following box is required to be checked in order to process this form:
-[color=#ff0000][bold] \[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
+The following box is required to be checked in order to process this form:[color=#ff0000][bold] 
+\[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
 
 [bullet/] I will not form relationships with any Artifact or Anomaly, nor the product there of.
 [bullet/] Should an anomaly cause station or crew damage, I am personally and legally responsible. 
@@ -59,12 +59,13 @@ The following box is required to be checked in order to process this form:
 (Tamper will result in denial and criminal charges)
 
 
-Access Granted by Form: SEE CHILD FORM CRF01
+Access Granted by Form: N/A IF CHILD FORM CRF01 PRESENT
 
-Title Granted by Form: SEE CHILD FORM CRF02
+Title Granted by Form: N/A IF CHILD FORM CRF02 PRESENT
 
-[bold]*Stamps Required: This page is invalid unless all marked stamps are present[/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+This form is validated by the HoP stamp, but only processed once approved.
+(A = An alternative, if the primary is unavailable, HoP approval not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[ ] Head of Security
