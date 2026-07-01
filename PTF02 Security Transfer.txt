@@ -9,10 +9,10 @@
 [color=#028a0f][head=2]                    PARENT FORM: PTF02     [/head]
                  -- This document is tied to Child Forms:--         [/color]
                                         [head=3]NanoTrasen[/ head]
-[color=#1b67a5]█▄ █ ▀█▀ [head=3]Author: Seeks-Her-Job: Command Secretary[/head] █ ▀█     █    
-(* = A Required Field)
+     █▄ █ [bold]Author: Seeks-Her-Job: Command Secretary[/bold] █ ▀█  (* = A Required Field)
 
-[color=#028a0f][head=3]PARENT FORM SUBJECT:[/color][color=#cb0000]SECURITY TRANSFER[/color][/head]
+[color=#028a0f][head=3]PARENT FORM:[/color][color=#cb0000]  SECURITY TRANSFER[/color][/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
           *Name:  
        *Species: 
 *Current Job:
@@ -47,8 +47,8 @@ Detective Duties:[color=#cb0000]
 \[ ] I have completed my NT Active Duty Intoxication Permit.
 \[ ] I have completed my NT portfolio of Forensic Paperwork Templates.
 [/color]
-The following box is required to be checked in order to process this form:
-[color=#ff0000][bold] \[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
+The following box is required to be checked in order to process this form:[color=#ff0000][bold]
+\[ ]*I consent to the following legal guidelines required to take on this role: [/bold]
 
 [bullet/] I will have patience when it comes to the Clown and Mime, and shall utilize laughter to deescalate confrontations.
 [bullet/] I am fully responsible for my own equipment, and shall not draw it unless I intend to use it.
@@ -61,12 +61,13 @@ The following box is required to be checked in order to process this form:
 (Tamper will result in denial and criminal charges)
 
 
-Access Granted by Form: SEE CHILD FORM CRF01
+Access Granted by Form: N/A IF CHILD FORM CRF01 PRESENT
 
-Title Granted by Form: SEE CHILD FORM CRF02
+Title Granted by Form: N/A IF CHILD FORM CRF02 PRESENT
 
-[bold]*Stamps Required: This page is invalid unless all marked stamps are present[/bold]
-(A = An alternative, if the primary is unavailable, not assured.)
+[bold]*Stamps Required: HoP will adjust as needed.[/bold]
+This form is validated by the HoP stamp, but only processed once approved.
+(A = An alternative, if the primary is unavailable, HoP approval not assured.)
 
 Approved                \[X]   \[X] Head of Personnel
 Captain                   \[A]    \[X] Head of Security
